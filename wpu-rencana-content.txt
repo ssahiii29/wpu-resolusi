@@ -1,6 +1,7 @@
 RENCANA K0ONTEN WPU
 - Javascript
  PJP
-
+  Vue
 - Struktur Data
 - PHP
+ lLaravel
